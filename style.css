@@ -69,7 +69,7 @@ align-items: center;
 .eduCon1{
     /* border: 1px solid red; */
     width: 23vw;
-    height: 12vh;
+    /* height: 2vh; */
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
@@ -91,7 +91,7 @@ align-items: center;
 .numCon{
     /* border: 1px solid red; */
     width: 23vw;
-    height: 3vh;
+    /* height: 3vh; */
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
