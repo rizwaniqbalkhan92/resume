@@ -10,7 +10,7 @@
     justify-content: center;
     align-items: center;
     width: 100vw;
-    height: 100vh;
+    height: 1500px;
     background-color: gray;
 }
 .cvContainer{
@@ -18,7 +18,7 @@
     display: flex;
     justify-content: space-between;
     flex-direction: row;
-    height: 90vh;
+    /* height: 90vh; */
     /* border: 1px solid red; */
     margin: 0 auto;
 }
@@ -28,18 +28,18 @@
     display: flex;
     justify-content: space-around;
     flex-direction: column;
-    height: 90vh;
+    height: 1100px;
     background-color: #2C3539;
 }
 .largeContainer{
     width: 45vw;
-    height: 90vh;
+    height: 1100px;
     background-color: white;
 }
 
 .profileImg{
-    width: 23vw;
-    height: 20vh;
+    width: 30vh;
+    height: 30vh;
     align-self: center;
     display: flex;
     margin: 10px auto;
@@ -69,7 +69,7 @@ align-items: center;
 .eduCon1{
     /* border: 1px solid red; */
     width: 23vw;
-    height: 7vh;
+    height: 12vh;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
@@ -159,7 +159,7 @@ text-decoration: none;
 }
 
 .nameAndTitleContainer .name{
-    font-size: 40px;
+    font-size: 50px;
     font-family: sans-serif;
     font-weight: 600;
     
@@ -180,7 +180,7 @@ text-decoration: none;
 }
  .aboutContainer2 .wrapper{
     width: 100%;
-   height: 20vh;
+   height: 30vh;
    justify-content: center;
    flex-direction: column;
    display: flex;
@@ -202,7 +202,7 @@ text-decoration: none;
 }
 
 .aboutContainer{
-    height: 15vh;
+    height: 30vh;
     width: 100%;
     justify-content: center;
     align-items: center;
@@ -212,7 +212,7 @@ text-decoration: none;
     background-color: white;
 }
 .aboutContainer2{
-    height: 25vh;
+    height: 30vh;
     width: 100%;
     justify-content: center;
     align-items: center;
@@ -244,6 +244,7 @@ font-weight: 500;
 
 .con3 ul  li{
 list-style-type: none;
+font-size: 20px;
 }
 .con3 ul{
     margin-top: 10px;
@@ -272,7 +273,7 @@ list-style-type: none;
 }
 .con3e ul{
     margin-top: 10px;
-    height: 15vh;
+    height: 25vh;
     /* border: 1px solid red; */
     display: flex;
     justify-content: space-around;
@@ -282,7 +283,7 @@ list-style-type: none;
 /* list-style-type: none; */
 }
 .con3 ul{
-    height: 10vh;
+    height: 20vh;
     /* border: 1px solid red;
     display: flex;
     justify-content: space-around; */
@@ -295,6 +296,7 @@ list-style-type: none;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    font-size: 22px;
 }
 
 .company{
